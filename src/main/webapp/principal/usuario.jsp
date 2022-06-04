@@ -43,7 +43,7 @@
 
 							<div class="form-floating mb-3">
 								<input type="text" class="form-control" id="usu_nome"
-									name="usu_nome" placeholder="Nome" required="required" value="${modelLogin.usu_nome}"> <label
+									name="usu_nome" placeholder="Nome" required="required" value="${modelLogin.usu_nome}" autocomplete="off"> <label
 									for="usu_nome">Nome</label>
 							</div>
 							<div class="form-floating mb-3">
